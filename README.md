@@ -3,7 +3,9 @@ I am someone who codes... idk
 <br>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BritishGeekGuy.repoName)
 <br>
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=BritishGeekGuy&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=BritishGeekGuy&count_private=false&show_icons=true&hide=contribs)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BritishGeekGuy&layout=compact)
 <!--
 **BritishGeekGuy/BritishGeekGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
