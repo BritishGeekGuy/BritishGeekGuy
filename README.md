@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am someone who codes... idk
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BritishGeekGuy.repoName)
 <!--
 **BritishGeekGuy/BritishGeekGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
