@@ -2,6 +2,8 @@
 I am someone who codes... idk
 <br>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BritishGeekGuy.repoName)
+<br>
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=BritishGeekGuy&count_private=true&show_icons=true&hide=contribs)
 <!--
 **BritishGeekGuy/BritishGeekGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
