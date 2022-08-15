@@ -1,9 +1,9 @@
 ### WARNING
 THIS GITHUB ACCOUNT IS DORMANT!
 <br>
-I shall not be using GitHub for the forseeable future (Check ![GiveUpGithub](https://giveupgithub.org/))
+I shall not be using GitHub for the forseeable future (Check [GiveUpGithub](https://giveupgithub.org/))
 <br>
-If you would like to keep up to date with my projects - please follow my ![CodeBerg](https://codeberg.org/BritishGeekGuy) Profile.
+If you would like to keep up to date with my projects - please follow my [CodeBerg](https://codeberg.org/BritishGeekGuy) Profile.
 
 ### Hi there 👋
 I am someone who codes... idk
