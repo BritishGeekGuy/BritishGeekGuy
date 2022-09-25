@@ -1,12 +1,3 @@
-### WARNING
-THIS GITHUB ACCOUNT IS DORMANT!
-<br>
-I shall not be using GitHub for the forseeable future (Check out why at [GiveUpGithub](https://giveupgithub.org/))
-<br>
-If you would like to keep up to date with my projects - please follow my [CodeBerg](https://codeberg.org/BritishGeekGuy) Profile.
-<br>
-I will move all projects that are not dormant over to there!
-
 ### Hi there 👋
 I am someone who codes... idk
 <br>
